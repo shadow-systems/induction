@@ -23,7 +23,7 @@ caption {
   font-weight: bold;
   font-size: 135%;
 }
-th, td{
+th, td {
   max-width: 40%;
   border: 0.15em solid #000000;
   padding: 0.5em;
@@ -41,10 +41,10 @@ th {
   text-align: left;
   background-color: #3333ff;
 }
-tr:hover{
+tr:hover {
   font-weight: bold;
 }
-li{
+li {
   font-size: 125%;
   font-weight: bold;
 }
